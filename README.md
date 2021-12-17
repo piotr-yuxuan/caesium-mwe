@@ -1,6 +1,6 @@
 # `piotr-yuxuan/caesium-mwe`
 
-Using caesium with GraalVM native compilation seems to be thorny at the time being.
+Using caesium with GraalVM native compilation seems to be thorny at the time being. Discussed in https://github.com/lvh/caesium/issues/84
 
 References:
 - https://github.com/clj-easy/graalvm-clojure/blob/master/doc/clojure-graalvm-native-binary.md
