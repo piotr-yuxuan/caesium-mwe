@@ -1,7 +1,7 @@
 (ns piotr-yuxuan.caesium-mwe.main
-  (:require [byte-streams :as byte-streams]
-            [caesium.crypto.box :as crypto])
-  (:import (java.util Base64))
+  (:require [org.clj-commons.byte-streams :as byte-streams]
+            [com.github.lvh.caesium.crypto.box :as crypto])
+  (:import (java.util Base64 Random))
   (:gen-class))
 
 (defn example
